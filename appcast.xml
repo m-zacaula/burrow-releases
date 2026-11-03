@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Burrow</title>
+    <description>Updates for Burrow</description>
+    <language>en</language>
+    <!-- releases, newest first -->
+  </channel>
+</rss>
