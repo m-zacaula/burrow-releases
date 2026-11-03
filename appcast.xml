@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Burrow 1.7</title>
+      <pubDate>Tue, 03 Nov 2026 11:50:58 -0600</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New one-line installer from Terminal: no &#x27;Open Anyway&#x27; and nothing to mount</li><li>Move to Applications now ejects the installer disk and doesn&#x27;t ask Open Anyway again</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/burrow-releases/releases/download/v1.7/Burrow-1.7.zip" type="application/octet-stream" sparkle:edSignature="it4J83Nq37oGDSV0JBFgS5OtKKW9DNsaG5djZg6iiEVV8Q18utx4ypTFsOj5o/MoyLWkyzbIbR3sxr3utiWGDQ==" length="2421017"/>
+    </item>
+    <item>
       <title>Burrow 1.6</title>
       <pubDate>Tue, 03 Nov 2026 11:09:04 -0600</pubDate>
       <sparkle:version>7</sparkle:version>
