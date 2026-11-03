@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Burrow 1.5</title>
+      <pubDate>Tue, 03 Nov 2026 11:03:07 -0600</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The installer opens as an Install Burrow window: drag Burrow onto Applications</li><li>Opened straight from the installer, Burrow offers to move itself to Applications</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/burrow-releases/releases/download/v1.5/Burrow-1.5.zip" type="application/octet-stream" sparkle:edSignature="9vhfRDbBO7MSMbAf89E2hxPeJpn2FPYAWDFUb+dc058ZwrWdSjiLRbvUTaIG9Y6kXoBZbv7mlksSCLSPqxO4CQ==" length="2406515"/>
+    </item>
+    <item>
       <title>Burrow 1.4</title>
       <pubDate>Tue, 03 Nov 2026 10:54:46 -0600</pubDate>
       <sparkle:version>5</sparkle:version>
