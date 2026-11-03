@@ -6,6 +6,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Burrow 1.6</title>
+      <pubDate>Tue, 03 Nov 2026 11:09:04 -0600</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Locations: the Connect automatically rows show right away instead of appearing blank</li></ul>]]></description>
+      <enclosure url="https://github.com/m-zacaula/burrow-releases/releases/download/v1.6/Burrow-1.6.zip" type="application/octet-stream" sparkle:edSignature="0YTT7dTuhanA1Yn9LWIObpSPNDd0USTZgqqoh8kMkJxO76U9O6QuS5g5J6NQYmTKmq0euTWDvwY9jmChF/zUAg==" length="2418958"/>
+    </item>
+    <item>
       <title>Burrow 1.5</title>
       <pubDate>Tue, 03 Nov 2026 11:03:07 -0600</pubDate>
       <sparkle:version>6</sparkle:version>
